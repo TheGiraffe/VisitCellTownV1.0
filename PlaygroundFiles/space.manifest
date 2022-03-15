@@ -53,5 +53,5 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Scenes/Space.unity
 Dependencies:
-- /home/sophiabot/Desktop/CellTownV1/Exports/PlaygroundFiles/artifacts
-- /home/sophiabot/Desktop/CellTownV1/Exports/PlaygroundFiles/portals
+- /PlaygroundFiles/artifacts
+- /PlaygroundFiles/portals
